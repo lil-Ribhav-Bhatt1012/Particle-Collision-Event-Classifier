@@ -113,6 +113,9 @@ The `submission.csv` file contains predictions for the test dataset, structured 
 3. Optimize hyperparameters with **GridSearchCV** for better predictions.
 
 ---
+## **Class Distribution**
+![output](https://github.com/user-attachments/assets/32a79ee3-eb2d-40ee-8c59-056c292c430c)
+
 
 ## 🙏 **Acknowledgments**
 This project draws inspiration from challenges in high-energy physics, applying machine learning to advance research in particle collision analysis.
