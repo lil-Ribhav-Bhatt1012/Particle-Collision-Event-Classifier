@@ -116,6 +116,17 @@ The `submission.csv` file contains predictions for the test dataset, structured 
 ## **Class Distribution**
 ![output](https://github.com/user-attachments/assets/32a79ee3-eb2d-40ee-8c59-056c292c430c)
 
+## **Random Forest Classifier**
+<img width="539" alt="Rfc" src="https://github.com/user-attachments/assets/30e38411-04ba-4900-837b-3bda45f0f846" />
+
+## **Classification Report**
+<img width="584" alt="classification report" src="https://github.com/user-attachments/assets/443a9eb4-73af-4b82-96b6-9602799e87ab" />
+
+## **Feature Importances**
+<img width="1169" alt="feature" src="https://github.com/user-attachments/assets/a7e8cf9d-a8ea-4177-81b9-261838bf0895" />
+
+## **Hyperparameters**
+<img width="1131" alt="parameters" src="https://github.com/user-attachments/assets/28235f92-e5fb-414e-95bd-a921ca29f00e" />
 
 ## 🙏 **Acknowledgments**
 This project draws inspiration from challenges in high-energy physics, applying machine learning to advance research in particle collision analysis.
